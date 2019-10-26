@@ -14,5 +14,8 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+## ABOUT APPLICATION
+* This is the simple application for the new comers to understand the basics of flutter such as MaterialApp,and widgets like TextFormField,Container and more.
+
 ## PREVIEW
 <a href="https://imgflip.com/gif/3ef57u"><img src="https://i.imgflip.com/3ef57u.gif" title="made at imgflip.com"/></a>
